@@ -1,6 +1,6 @@
-# Define your functions
+
 def coffee_bot():
-    print("Welcome to the cafe!")
+    print("Welcome to preet's cafe!")
     size = get_size()
 
     drink_type = get_drink_type()
@@ -52,6 +52,6 @@ def order_latte():
         return order_latte()
 
 
-# Call coffee_bot()!
+
 coffee_bot()
 
